@@ -7,7 +7,7 @@ export const NavBar = () => {
 
   return (
     <nav className='title'>
-      <div className='wrapper' onClick={() => navigate('/')}>
+      <div className='wrapper' onClick={() => navigate('/CryptoRoman')}>
         <GiCoins size={40} color='#89CFF0' />
       </div>
       <h1 className='title__text'>
