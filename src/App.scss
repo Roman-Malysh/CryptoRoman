@@ -1,0 +1,28 @@
+@import './styles/Variables.scss';
+
+#root {
+  padding: 20px;
+  background-color: $dark;
+  min-height: 100vh;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.title {
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  &__logo {
+    width: 100px;
+    height: 100px;
+  }
+  &__text {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+  }
+  &__span {
+    color: #89CFF0;
+    margin-left: .5rem;
+  }
+}
