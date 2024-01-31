@@ -28,12 +28,13 @@
   }
   &__p {
     vertical-align: middle;
+    text-align: center;
     font-size: 12px;
     &:first-of-type {
       padding-left: 1rem;
     }
     &:last-of-type {
-      padding-left: 1rem;
+      padding-right: 1rem;
     }
     @include onTablet {
       font-size: 14px;
