@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CryptoRoman/static/css/main.5f63d022.css",
+    "main.css": "/CryptoRoman/static/css/main.3170a2dd.css",
     "main.js": "/CryptoRoman/static/js/main.edde1549.js",
     "static/js/787.d4aba7ab.chunk.js": "/CryptoRoman/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/CryptoRoman/index.html",
-    "main.5f63d022.css.map": "/CryptoRoman/static/css/main.5f63d022.css.map",
+    "main.3170a2dd.css.map": "/CryptoRoman/static/css/main.3170a2dd.css.map",
     "main.edde1549.js.map": "/CryptoRoman/static/js/main.edde1549.js.map",
     "787.d4aba7ab.chunk.js.map": "/CryptoRoman/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f63d022.css",
+    "static/css/main.3170a2dd.css",
     "static/js/main.edde1549.js"
   ]
 }
