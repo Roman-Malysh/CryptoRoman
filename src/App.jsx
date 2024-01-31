@@ -9,7 +9,7 @@ function App() {
     <>
       <NavBar />
       <Routes>
-        <Route path=':coinId' element={<CoinInfo />} />
+        <Route path='/CryptoRoman:coinId' element={<CoinInfo />} />
         <Route path='/CryptoRoman' element={<Coins />} />
       </Routes>
     </>

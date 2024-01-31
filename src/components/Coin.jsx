@@ -9,7 +9,7 @@ export const Coin = ({coin}) => {
   const { height, width } = useWindowDimensions();
 
   return (
-    <tr className="coin" onClick={() => navigate(`${coin.id}`)}>
+    <tr className="coin" onClick={() => navigate(`/CryptoRoman${coin.id}`)}>
       <td className="coin__p">{coin.market_cap_rank}</td>
       <td className="coin__p"><div className="coin__image-wrap"><img className='coin__image' src={coin.image} alt="" />{coin.symbol}</div></td>
       <td className="coin__p">${coin.current_price.toLocaleString()}</td>
